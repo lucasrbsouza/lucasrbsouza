@@ -42,7 +42,10 @@
  
 </div>
 
-![snake gif](https://github.com/lucasrbsouza/lucasrbsouza/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lucasrbsouza/lucasrbsouza/actions/runs/11375435423" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/lucasrbsouza/lucasrbsouza/actions/runs/11375435423" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
