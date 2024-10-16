@@ -43,9 +43,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasrbsouza/lucasrbsouza/refs/heads/main/.github/workflows/snakegame.yml" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasrbsouza/lucasrbsouza/refs/heads/main/.github/workflows/snakegame.yml" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/lucasrbsouza/lucasrbsouza/refs/heads/main/.github/workflows/snakegame.yml" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasrbsouza/lucasrbsouza/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasrbsouza/lucasrbsouza/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lucasrbsouza/lucasrbsouza/output/github-contribution-grid-snake.svg" />
 </picture>
 
 
