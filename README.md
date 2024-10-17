@@ -30,15 +30,15 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 
 #
-<div>
+<div align="center">
   
-  <h3 align="left">Connect with me!</h3>
+  <h3 align="center">Connect with me! 🔗</h3>
   <a href="https://www.instagram.com/lucassousaas/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">     </a>
   <a href = "mailto:eng.lucassouzas@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lucas-souza-a83bbb1b1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
- <h3 align="left">My Stack ~</h3>
-  <div align="left">
+ <h3 align="center">Techs 👨‍💻</h3>
+  <div align="center">
   <img  alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img  alt="spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img  alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
@@ -51,9 +51,11 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 </div>
 
 #
+
+<div align="center">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasrbsouza/lucasrbsouza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasrbsouza/lucasrbsouza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucasrbsouza/lucasrbsouza/output/github-contribution-grid-snake.svg">
 </picture>
-
+</div>
