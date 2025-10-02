@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&center=true&width=435&lines=Lucas+Souza+%F0%9F%91%8B;Desenvolvedor+Backend+Java;Especialista+em+Spring+Boot+%E2%9A%A1" alt="Typing SVG - Lucas Souza, Desenvolvedor Backend Java, Especialista em Spring Boot">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&center=true&width=435&lines=Lucas+Souza+%F0%9F%91%8B;Desenvolvedor+Backend+Java;Especialista+em+Spring+Boot+%E2%9A%A1" alt="Typing SVG - Lucas Souza, Desenvolvedor Backend">
   </a>
 </p>
 
