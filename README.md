@@ -12,7 +12,7 @@
 
 Sou estudante de **Engenharia de Software** (ICEV) e desenvolvedor com foco em **Java**, **Spring Boot** e boas práticas de arquitetura. Gosto de projetar APIs escaláveis, escrever código testável e automatizar ambientes com **Docker**.
 
-Atualmente estudando **Python** para análise de dados e me aprofundando em DevOps e testes automatizados.
+Atualmente estudando e me aprofundando em DevOps e testes automatizados.
 
 ---
 
