@@ -75,9 +75,9 @@ Se quiser ver projetos, visite meu perfil: https://github.com/lucasrbsouza
 
 ### 🛠️ O que estou aprendendo
 
-- Arquitetura de microsserviços
+- Arquitetura de Software
 - Testes automatizados e TDD
-- Observabilidade e DevOps
+- Desing Patterns
 
 ---
 
