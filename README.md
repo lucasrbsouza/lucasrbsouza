@@ -81,7 +81,7 @@ Se quiser ver projetos, visite meu perfil: https://github.com/lucasrbsouza
 
 ---
 
-Obrigado pela visita — vamos construir algo juntos!
+Obrigado pela visita
 <div align="center">
   <p>
     19/03/2016
