@@ -1,98 +1,73 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&width=700&lines=Lucas+Souza+%F0%9F%91%8B;Desenvolvedor+Backend+%E2%9A%A1;Let's+build+great+APIs" alt="Lucas Souza - Desenvolvedor Backend">
-</p>
+<div align="center">
+  <h1>Lucas Souza</h1>
+  <p><i>Software Engineer & Backend Developer</i></p>
+</div>
 
-<p align="center">
-  <em>Transformando código em APIs robustas, com foco em arquitetura e qualidade.</em>
-</p>
+<br/>
 
----
+<div align="center">
+  Construindo sistemas robustos e escaláveis através de código limpo e design refinado.
+</div>
 
-### 🎯 Sobre Mim
-
-Sou estudante de **Engenharia de Software** (ICEV) e desenvolvedor com foco em **Java**, **Spring Boot** e boas práticas de arquitetura. Gosto de projetar APIs escaláveis, escrever código testável e automatizar ambientes com **Docker**.
-
-Atualmente estudando e me aprofundando em DevOps e testes automatizados.
+<br/>
 
 ---
 
-### ✨ Destaques
+### Sobre
 
-- **APIs RESTful** com Spring Boot
-- **Microsserviços** e integração com bancos relacionais
-- **Docker** para containerização e ambientes reproduzíveis
-- Código limpo, testes e revisão por pares
+Engenheiro de Software em formação, focado na construção de arquiteturas backend resilientes. Especialista no ecossistema **Java** e **Python**, com forte ênfase em Domain-Driven Design (DDD), princípios SOLID e testes automatizados. Acredito que a excelência técnica nasce da simplicidade e da atenção aos detalhes.
 
-Se quiser ver projetos, visite meu perfil: https://github.com/lucasrbsouza
+Atualmente, dedico meus estudos ao aprofundamento em práticas de DevOps, integração contínua e confiabilidade de sistemas.
 
 ---
 
-### 🚀 Stack & Ferramentas
+### Expertise
 
-<p align="center">
-  <img alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;
-  <img alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">&nbsp;
-  <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
-  <img alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">&nbsp;
-  <img alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">&nbsp;
-  <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</p>
+- **Linguagens:** Java, Python
+- **Ecossistema:** Spring Boot, RESTful APIs
+- **Infraestrutura:** Docker, Bancos de Dados Relacionais (MySQL), Git
+- **Engenharia:** Clean Architecture, Design Patterns, TDD, Refatoração Contínua
 
 ---
 
-### 🔭 Projetos em Destaque
+### Projetos Selecionados
 
-- [Veja todos os meus repositórios no GitHub](https://github.com/lucasrbsouza)
+A excelência está no código. Sinta-se à vontade para explorar minhas implementações, arquiteturas e histórico de commits:
+[Explorar Repositórios ↗](https://github.com/lucasrbsouza)
 
 ---
 
-### 📊 Estatísticas
+### Métricas
 
 <div align="center">
   <a href="https://github.com/lucasrbsouza">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=lucasrbsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrbsouza&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucasrbsouza&show_icons=true&theme=transparent&hide_border=true&title_color=808080&icon_color=808080&text_color=777777&include_all_commits=true&count_private=true"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrbsouza&layout=compact&langs_count=5&theme=transparent&hide_border=true&title_color=808080&text_color=777777"/>
   </a>
 </div>
 
 ---
 
-### 📫 Contato
+### Conexões
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-souza-a83bbb1b1" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:eng.lucassouzas@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/lucassousaas/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-souza-a83bbb1b1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white">
+  </a> &nbsp;
+  <a href="mailto:eng.lucassouzas@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white">
+  </a> &nbsp;
+  <a href="https://www.instagram.com/lucassousaas/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white">
   </a>
 </p>
 
----
-
-### 🛠️ O que estou aprendendo
-
-- Arquitetura de Software
-- Testes automatizados e TDD
-- Desing Patterns
-
----
-
-Obrigado pela visita
-<div align="center">
-  <p>
-    23
-  </p>
-</div>
-
+<br/>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasrbsouza/lucasrbsouza/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasrbsouza/lucasrbsouza/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasrbsouza/lucasrbsouza/output/github-contribution-grid-snake.svg">
     <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucasrbsouza/lucasrbsouza/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
