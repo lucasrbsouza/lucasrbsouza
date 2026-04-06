@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>Sobre</h3>
-  <p><i>Engenheiro de Software focado na construção de sistemas backend robustos e escaláveis. <br/> Dedicado à integridade arquitetural, código limpo e à transformação de requisitos complexos em soluções elegantes e eficientes, primando sempre pela qualidade com Java e Python.</i></p>
+  <p><i>Engenheiro de Software focado na construção de sistemas backend. <br/> Dedicado à integridade arquitetural, código limpo e à transformação de requisitos complexos em soluções elegantes e eficientes, primando sempre pela qualidade com Java e Python.</i></p>
 </div>
 
 <br/>
