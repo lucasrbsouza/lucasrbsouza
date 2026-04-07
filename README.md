@@ -31,3 +31,16 @@
     <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucasrbsouza/lucasrbsouza/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<!-- AUTO-UPDATE-START -->
+## 📊 GitHub Stats
+
+| | |
+|---|---|
+| 👥 Seguidores | **10** |
+| 👤 Seguindo | **25** |
+| 📁 Repositórios públicos | **19** |
+| ⭐ Total de estrelas | **0** |
+
+> 🕐 Última atualização: 07/04/2026 às 08:47
+<!-- AUTO-UPDATE-END -->
