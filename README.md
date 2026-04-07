@@ -16,7 +16,7 @@
 <br/>
 
 <div align="center">
-  <h3>Most Used Languages</h3>
+  <h3>Linguagens usadas</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrbsouza&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=A0A0A0&text_color=808080&bg_color=00000000"/>
 </div>
 
