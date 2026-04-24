@@ -1,37 +1,65 @@
-<div align="center" style="text-align: left;">
-<pre style="background-color: #0C0C0C; color: #00FF41; font-family: 'Courier New', monospace; padding: 20px; border-radius: 5px; overflow: auto;">
-<span style="color: #FFFFFF;">lucas@github</span>:<span style="color: #00FFFF;">~</span>$ neofetch
-<span style="color: #FFFF00;">    .--.</span>
-<span style="color: #FFFF00;">   |o_o |    </span> Lucas Souza
-<span style="color: #FFFF00;">   |:_/ |    </span> Backend Architecture & Software Craftsmanship
-<span style="color: #FFFF00;">  //   \ \   </span> Java | Python
-<span style="color: #FFFF00;"> (|     | )  </span> GitHub Profile
-<span style="color: #FFFF00;">/'\_   _/`\ </span>
-<span style="color: #FFFF00;">\___)=(___/ </span>
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│         ██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗                      │
+│         ██║     ██║   ██║██╔════╝██╔══██╗██╔════╝                      │
+│         ██║     ██║   ██║██║     ███████║███████╗                      │
+│         ██║     ██║   ██║██║     ██╔══██║╚════██║                      │
+│         ███████╗╚██████╔╝╚██████╗██║  ██║███████║                      │
+│         ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝                      │
+│                                                                          │
+│                       lucas@arch  ~  [exit 0]                            │
+└──────────────────────────────────────────────────────────────────────────┘
+```
 
-<span style="color: #FFFFFF;">lucas@github</span>:<span style="color: #00FFFF;">~</span>$ cat about.txt
+```bash
+[lucas@arch ~]$ neofetch
+```
+
+```
+                   -`                   lucas@arch
+                  .o+`                  ----------
+                 `ooo/                  OS: Arch Linux x86_64
+                `+oooo:                 Host: Engenheiro de Software
+               `+oooooo:               Kernel: Backend Architecture
+               -+oooooo+:              Uptime: construindo desde sempre
+             `/:-:++oooo+:             Shell: Java · Python · bash
+            `/++++/+++++++:            Resolution: soluções elegantes
+           `/++++++++++++++:           DE: Clean Code + DDD
+          `/+++ooooooooooooo/`         WM: Arquitetura de Sistemas
+         ./ooosssso++osssssso+`        Terminal: vim (sem saída)
+        .oossssso-````/ossssss+`       CPU: foco em integridade
+       -osssssso.      :ssssssso.      Memory: requisitos complexos
+      :osssssss/        osssso+++.     
+     /ossssssss/        +ssssooo/-     
+   `/ossssso+/:-        -:/+osssso+-   
+  `+sso+:-`                 `.-/+oso:  
+ `++:.                           `-/+/ 
+ .`                                 `/
+```
+
+```bash
+[lucas@arch ~]$ cat about.txt
+```
+
+```
 Engenheiro de Software focado na construção de sistemas backend.
 Dedicado à integridade arquitetural, código limpo e à transformação
 de requisitos complexos em soluções elegantes e eficientes,
 primando sempre pela qualidade com Java e Python.
+```
 
-<span style="color: #FFFFFF;">lucas@github</span>:<span style="color: #00FFFF;">~</span>$ top-langs
-</pre>
-</div>
-
-<br/>
+```bash
+[lucas@arch ~]$ cat languages.log
+```
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrbsouza&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=A0A0A0&text_color=808080&bg_color=00000000"/>
 </div>
 
-<br/>
-
-<div align="center" style="text-align: left;">
-<pre style="background-color: #0C0C0C; color: #00FF41; font-family: 'Courier New', monospace; padding: 20px; border-radius: 5px; overflow: auto;">
-<span style="color: #FFFFFF;">lucas@github</span>:<span style="color: #00FFFF;">~</span>$ ./snake.sh
-</pre>
-</div>
+```bash
+[lucas@arch ~]$ watch git contributions
+```
 
 <div align="center">
   <picture>
@@ -41,22 +69,25 @@ primando sempre pela qualidade com Java e Python.
   </picture>
 </div>
 
-<br/>
+```bash
+[lucas@arch ~]$ gh api /users/lucasrbsouza --jq '.stats'
+```
 
-<div align="center" style="text-align: left;">
-<pre style="background-color: #0C0C0C; color: #00FF41; font-family: 'Courier New', monospace; padding: 20px; border-radius: 5px; overflow: auto;">
-<span style="color: #FFFFFF;">lucas@github</span>:<span style="color: #00FFFF;">~</span>$ system_stats
 <!-- AUTO-UPDATE-START -->
+```
 ## 📊 GitHub Stats
 
-| | |
-|---|---|
-| 👥 Seguidores | **11** |
-| 👤 Seguindo | **26** |
-| 📁 Repositórios públicos | **23** |
-| ⭐ Total de estrelas | **0** |
+┌─────────────────────────────────────┐
+│  👥  Seguidores          11         │
+│  👤  Seguindo            26         │
+│  📁  Repositórios        23         │
+│  ⭐  Estrelas             0         │
+└─────────────────────────────────────┘
+```
 
-> 🕐 Última atualização: 24/04/2026 às 10:19
+> `[cron@arch]` Última atualização: 24/04/2026 às 10:19
 <!-- AUTO-UPDATE-END -->
-</pre>
-</div>
+
+```bash
+[lucas@arch ~]$ █
+```
