@@ -74,18 +74,16 @@ primando sempre pela qualidade com Java e Python.
 ```
 
 <!-- AUTO-UPDATE-START -->
-```
 ## 📊 GitHub Stats
 
-┌─────────────────────────────────────┐
-│  👥  Seguidores          11         │
-│  👤  Seguindo            26         │
-│  📁  Repositórios        23         │
-│  ⭐  Estrelas             0         │
-└─────────────────────────────────────┘
-```
+| | |
+|---|---|
+| 👥 Seguidores | **11** |
+| 👤 Seguindo | **26** |
+| 📁 Repositórios públicos | **23** |
+| ⭐ Total de estrelas | **0** |
 
-> `[cron@arch]` Última atualização: 24/04/2026 às 10:19
+> 🕐 Última atualização: 25/04/2026 às 18:58
 <!-- AUTO-UPDATE-END -->
 
 ```bash
