@@ -1,66 +1,32 @@
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│         ██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗                      │
-│         ██║     ██║   ██║██╔════╝██╔══██╗██╔════╝                      │
-│         ██║     ██║   ██║██║     ███████║███████╗                      │
-│         ██║     ██║   ██║██║     ██╔══██║╚════██║                      │
-│         ███████╗╚██████╔╝╚██████╗██║  ██║███████║                      │
-│         ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝                      │
-│                                                                          │
-│                       lucas@arch  ~  [exit 0]                            │
-└──────────────────────────────────────────────────────────────────────────┘
-```
-
-```bash
-[lucas@arch ~]$ neofetch
-```
-
-```
-                   -`                   lucas@arch
-                  .o+`                  ----------
-                 `ooo/                  OS: Arch Linux x86_64
-                `+oooo:                 Host: Engenheiro de Software
-               `+oooooo:               Kernel: Backend Architecture
-               -+oooooo+:              Uptime: construindo desde sempre
-             `/:-:++oooo+:             Shell: Java · Python · bash
-            `/++++/+++++++:            Resolution: soluções elegantes
-           `/++++++++++++++:           DE: Clean Code + DDD
-          `/+++ooooooooooooo/`         WM: Arquitetura de Sistemas
-         ./ooosssso++osssssso+`        Terminal: vim (sem saída)
-        .oossssso-````/ossssss+`       CPU: foco em integridade
-       -osssssso.      :ssssssso.      Memory: requisitos complexos
-      :osssssss/        osssso+++.     
-     /ossssssss/        +ssssooo/-     
-   `/ossssso+/:-        -:/+osssso+-   
-  `+sso+:-`                 `.-/+oso:  
- `++:.                           `-/+/ 
- .`                                 `/
-```
-
-```bash
-[lucas@arch ~]$ cat about.txt
-```
-
-```
-Engenheiro de Software focado na construção de sistemas backend.
-Dedicado à integridade arquitetural, código limpo e à transformação
-de requisitos complexos em soluções elegantes e eficientes,
-primando sempre pela qualidade com Java e Python.
-```
-
-```bash
-[lucas@arch ~]$ cat languages.log
-```
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrbsouza&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=A0A0A0&text_color=808080&bg_color=00000000"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF41&center=true&width=800&height=100&lines=ACCESSING+NEURAL+LINK...;INITIALIZING+LUCAS_SOUZA.EXE;BACKEND_ARCHITECT_MODE:ON;QUALITY_FIRST_ALWAYS" alt="Lucas Souza">
 </div>
 
-```bash
-[lucas@arch ~]$ watch git contributions
-```
+<div align="center">
+  <code><b>SYSTEM STATUS:</b> ONLINE</code> | <code><b>LOCATION:</b> TERESINA_BR</code> | <code><b>UPLINK:</b> STABLE</code>
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrbsouza&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=00FF41&text_color=FFFFFF&bg_color=0D1117"/>
+</div>
+
+---
+
+### 📂 [USER_BIO.log]
+> **Engenheiro de Software** focado na arquitetura de sistemas robustos. 
+> Especialista em converter requisitos complexos em código limpo, seguro e escalável. 
+> Operando primariamente com as stacks **Java** e **Python**.
+
+**Core Protocols:**
+- 🛡️ **Security by Design:** Proteção de dados e redução de superfícies de ataque.
+- 🧱 **SOLID & DDD:** Modelagem centrada no domínio e código modular.
+- 🧹 **Clean Code:** Prioridade máxima na legibilidade e manutenção.
+
+---
+
+### ⚙️ [SYSTEM_CORE]
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasrbsouza/lucasrbsouza/output/github-contribution-grid-snake-dark.svg">
@@ -69,9 +35,6 @@ primando sempre pela qualidade com Java e Python.
   </picture>
 </div>
 
-```bash
-[lucas@arch ~]$ gh api /users/lucasrbsouza --jq '.stats'
-```
 
 <!-- AUTO-UPDATE-START -->
 ## 📊 GitHub Stats
@@ -86,6 +49,5 @@ primando sempre pela qualidade com Java e Python.
 > 🕐 Última atualização: 27/04/2026 às 11:29
 <!-- AUTO-UPDATE-END -->
 
-```bash
-[lucas@arch ~]$ █
-```
+---
+
