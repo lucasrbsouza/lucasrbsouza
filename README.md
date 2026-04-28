@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF41&center=true&width=800&height=100&lines=ACCESSING+NEURAL+LINK...;INITIALIZING+LUCAS_SOUZA.EXE;BACKEND_ARCHITECT_MODE:ON;QUALITY_FIRST_ALWAYS" alt="Lucas Souza">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF41&center=true&width=800&height=100&lines=STARTING...;ACCESSING+NEURAL+LINK...;INITIALIZING+LUCAS_SOUZA.EXE;BACKEND_ARCHITECT_MODE:ON;QUALITY_FIRST_ALWAYS" alt="Lucas Souza">
 </div>
 
 <div align="center">
