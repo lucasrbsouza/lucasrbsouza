@@ -41,12 +41,12 @@
 
 | | |
 |---|---|
-| 👥 Seguidores | **10** |
+| 👥 Seguidores | **12** |
 | 👤 Seguindo | **29** |
 | 📁 Repositórios públicos | **25** |
 | ⭐ Total de estrelas | **0** |
 
-> 🕐 Última atualização: 14/05/2026 às 13:19
+> 🕐 Última atualização: 18/05/2026 às 13:13
 <!-- AUTO-UPDATE-END -->
 
 ---
