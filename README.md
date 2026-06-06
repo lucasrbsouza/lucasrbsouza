@@ -35,23 +35,6 @@
   </picture>
 </div>
 
-
-<!-- AUTO-UPDATE-START -->
-## 📊 GitHub Stats
-
-| | |
-|---|---|
-| 👥 Seguidores | **12** |
-| 👤 Seguindo | **29** |
-| 📁 Repositórios públicos | **27** |
-| ⭐ Total de estrelas | **0** |
-
-> 🕐 Última atualização: 05/06/2026 às 14:09
-<!-- AUTO-UPDATE-END -->
-
----
-
-
 <!-- chronocommit:start -->
 last updated: 2026-06-06T02:26:07.417Z
 <!-- chronocommit:end -->
